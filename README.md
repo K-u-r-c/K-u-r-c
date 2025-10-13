@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jakub
 
-<!--
-**K-u-r-c/K-u-r-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who enjoys coding and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ GitHub Stats
+
+| 📊 Stats | 🧠 Most Used Languages |
+|----------|-----------------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubKurc&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubKurc&layout=compact&theme=github_dark) |
+
+---
+
+### 🔗 Contact
+- [LinkedIn](www.linkedin.com/in/jakub-kurc)
+- [Website](https://kurc.dev)
