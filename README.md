@@ -13,5 +13,5 @@ I'm a passionate software engineer who enjoys coding and exploring new technolog
 ---
 
 ### 🔗 Contact
-- [LinkedIn](www.linkedin.com/in/jakub-kurc)
+- [LinkedIn](https://www.linkedin.com/in/jakub-kurc)
 - [Website](https://kurc.dev)
